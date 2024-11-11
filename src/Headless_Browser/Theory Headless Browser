@@ -1,0 +1,12 @@
+We can execute our Selenium Automation Scripts on Chrome Headless Browser
+Chrome Headless Browser unlike normal Chrome Browser, won't have any GUI
+
+
+Advantages:
+    •Tests will Run faster.resulting in better performance
+    •Multitasking:-While our scripts are getting executed, we can do our other tasks as nothing will interrupt us
+    
+    
+Disadvantages
+     •We cannot see how the tests are getting executed
+     •We won't get to know if something fails during the execution, as nothing is visible

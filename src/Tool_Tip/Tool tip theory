@@ -1,0 +1,7 @@
+A Tooltip in Selenium is a text that appears when a mouse hovers over an object on a web page. 
+The object can be a link, an image, a button, a text area, etc. 
+The tooltip text often gives more information about the object on which the user hovers over the mouse cursor.
+
+Tooltips were traditionally implemented as a ‘title’ attribute to an element. 
+The value of this attribute was shown as a tooltip on mouse-hover. 
+This is a static text giving information of the element with no styling.
